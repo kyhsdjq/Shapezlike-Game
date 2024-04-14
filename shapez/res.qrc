@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/circle.png</file>
+        <file>pic/rectangle.png</file>
+        <file>pic/conveyor.png</file>
+        <file>pic/cutter_main.png</file>
+        <file>pic/cutter_side.png</file>
+        <file>pic/eraser.png</file>
+        <file>pic/miner.png</file>
+        <file>pic/right_rectangle.png</file>
+        <file>pic/left_rectangle.png</file>
+        <file>pic/cutter.png</file>
+        <file>pic/receiver.png</file>
+        <file>pic/upgrader.png</file>
+        <file>pic/Ru------.png</file>
+        <file>pic/--Ru----.png</file>
+        <file>pic/----Ru--.png</file>
+        <file>pic/------Ru.png</file>
+        <file>pic/down_rectangle.png</file>
+        <file>pic/up_rectangle.png</file>
+        <file>pic/spinner.png</file>
+        <file>pic/receiver_content.png</file>
+        <file>pic/receiver_edge.png</file>
+    </qresource>
+</RCC>
